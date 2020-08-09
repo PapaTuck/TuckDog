@@ -1,2 +1,2 @@
 # TuckDog
-TuckDog (Tinder) Fake Dog Dating App
+TuckDog (Tinder -Fake) Dog Dating App
